@@ -17,3 +17,7 @@ const show = () => {
 show();
 
 ```
+
+- [x] - adding the headers on my .md file.
+- [x] - added the All in africa open source image
+- [x] - adding the code block of the programming language of my choice 
